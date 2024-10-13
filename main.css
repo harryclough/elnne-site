@@ -1,0 +1,8 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+html {
+  font-size: 20px;
+}
+
+.para {
+  width: min(100vw, 70ch);
+}/*# sourceMappingURL=main.css.map */
